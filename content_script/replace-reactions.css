@@ -6,6 +6,10 @@
   background-image:url("chrome-extension://__MSG_@@extension_id__/img/devlap-reactions.png") !important;
 }
 
+.x2 ._2p7a {
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/devlabbed@2x.png") !important;
+}
+
 ._2p7a {
   background-image:url("chrome-extension://__MSG_@@extension_id__/img/devlabbed.png") !important;
 }
